@@ -52,10 +52,10 @@ Executive layer here; depth in the linked artifacts.
 | 08 | [Site Survey](08-SITE-SURVEY.md) | What must be verified before commitment |
 | 09 | [Roadmap](09-ROADMAP.md) | Phasing and dependencies |
 | 10 | [Risks](10-RISKS.md) | Register, with probability-vs-impact strategy |
-| — | [Decisions (ADRs)](decisions/) | The reasoning behind the four load-bearing choices |
-| — | [Governance](governance/) | Stakeholder & RACI, conceptual SOW |
-| — | [Diagrams](diagrams/topology.md) | Topology and hybrid-cloud path (Mermaid) |
-| — | [Lab](lab/) | AWS evidence + Terraform — the buildable slice |
+| — | Decisions (ADRs) | [ADR-0001](ADR-0001-shared-neutral-layer.md) · [ADR-0002](ADR-0002-boundary-before-fitout.md) · [ADR-0003](ADR-0003-tier3-inspired-not-certified.md) · [ADR-0004](ADR-0004-ot-it-segregation.md) — the reasoning behind the four load-bearing choices |
+| — | Governance | [RACI](RACI.md) · [SOW](SOW.md) — stakeholders, responsibilities, conceptual scope of work |
+| — | Diagrams | [Topology](topology.md) — topology and hybrid-cloud path (Mermaid) |
+| — | Lab | [AWS evidence](aws-evidence.md) · [Terraform](main.tf) — the buildable slice |
 
 ---
 
